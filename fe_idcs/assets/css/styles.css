@@ -1,0 +1,32 @@
+#outer
+{
+    width:100%;
+    text-align: left;
+    margin-left: 30px;
+}
+.inner
+{
+    display: inline-block;    
+    margin-top:15px;
+    margin-bottom:10px;
+}
+.MuiInputLabel-root {
+    display: block !important;
+    font-weight: 600 !important;
+    transform-origin: top left !important;    
+}
+.vspacein
+{
+    margin-top:20px;
+}.tag {
+	font-weight: bold; margin-right: 1em;
+}
+
+.value {
+	font-family: monospace;
+}
+
+.pre {
+	font-family: monospace; white-space: pre;
+}
+

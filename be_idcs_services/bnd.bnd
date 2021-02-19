@@ -1,0 +1,16 @@
+Bundle-Name: be_idcs_services
+Bundle-SymbolicName: be_idcs_services
+Bundle-Version: 1.0.0
+Liferay-Configuration-Path: /configuration
+Import-Package: \
+!org.apache.jcp.xml.dsig.internal.dom.*,\
+!org.bouncycastle.asn1.*,\
+!org.bouncycastle.asn1.cmp.*,\
+!org.bouncycastle.cert.*,\
+!org.bouncycastle.cms.*,\
+!org.bouncycastle.crypto.*,\
+!org.bouncycastle.jcajce.provider.digest.*,\
+!org.bouncycastle.jce.*,\
+!org.bouncycastle.operator.*,\
+!org.bouncycastle.tsp.*,\
+\*
